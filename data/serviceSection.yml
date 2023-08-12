@@ -1,0 +1,38 @@
+---
+enable: true
+topTitle: Servicios
+title: >
+  ## Servicios
+
+  La tranquilidad no es la ausencia de problemas, sino la capacidad de mantener la calma ante ellos.
+service:
+  - content: >
+      #### Terapia Individual
+
+      Enfrentar los desafíos de la vida puede ser abrumador en ocasiones. Mi enfoque en la terapia individual es brindarte un espacio seguro y confidencial para explorar tus pensamientos, emociones y preocupaciones. Trabajaremos juntos para desarrollar estrategias para manejar el estrés, mejorar la autoestima y encontrar un mayor sentido de bienestar.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Formación a Especialistas en Salud Mental
+
+      Compartir el conocimiento es esencial para el crecimiento de nuestra comunidad de profesionales de la salud mental. Ofrezco programas de formación personalizados para psicólogos, terapeutas y otros especialistas interesados en mejorar sus habilidades clínicas. Desde técnicas terapéuticas avanzadas hasta la comprensión de enfoques innovadores, mi objetivo es ayudarte a fortalecer tus capacidades y ofrecer un apoyo aún más efectivo a tus pacientes.
+    image: images/service/web.svg
+  - content: >
+      #### Gestión del Estrés y Ansiedad
+
+      El estrés y la ansiedad son partes naturales de la vida, pero cuando se vuelven abrumadores, pueden afectar negativamente tu bienestar. A través de técnicas de terapia cognitivo-conductual y mindfulness, te proporcionaré herramientas prácticas para manejar el estrés y la ansiedad, permitiéndote vivir una vida más equilibrada y tranquila.
+    image: images/service/creative.svg
+  - content: >
+      #### Autoexploración y Crecimiento Personal
+
+      El viaje hacia el autodescubrimiento y el crecimiento personal es profundamente gratificante. Juntos, exploraremos tus metas, valores y aspiraciones, y trabajaremos en superar obstáculos que puedan estar frenando tu progreso. Mi enfoque te apoyará en tu búsqueda de un mayor autenticidad y realización.
+    image: images/service/branding.svg
+  - content: >
+      #### Apoyo en Momentos de Cambio
+
+      A lo largo de la vida, nos enfrentamos a cambios significativos que pueden generar incertidumbre y desafíos emocionales. Ya sea una transición laboral, una pérdida personal o un cambio en las relaciones, te proporcionaré un espacio de apoyo donde puedas expresar tus emociones y adaptarte de manera saludable a estas transiciones.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Grupos Terapéuticos y de Apoyo
+
+      A veces, enfrentar desafíos emocionales puede ser más efectivo cuando se comparten con otros que están pasando por experiencias similares. Mis grupos terapéuticos ofrecen un espacio seguro y comprensivo donde los individuos pueden compartir, aprender y crecer juntos. Ya sea para abordar la ansiedad, la depresión, la pérdida o cualquier otro tema, estos grupos brindan apoyo mutuo y estrategias de afrontamiento en un entorno guiado por un profesional experimentado.
+    image: images/service/web.svg
