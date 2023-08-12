@@ -94,9 +94,3 @@ weight = 3
 icon = "fa-twitter-square"
 url = "https://twitter.com/"
 weight = 4
-
-[deployment]
-[[deployment.targets]]
-name = "main"
-# Azure Blob Storage; see https://gocloud.dev/howto/blob/#azure
-URL = "azblob://$web"
