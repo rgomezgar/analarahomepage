@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://rgomezgar.github.io/"
+languageCode = "es-ES"
 paginate = 6
 theme = "portio"
 title = "Portio"
@@ -66,7 +66,7 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
+address = "Calle falsa 123."
 email = "hello@example.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+(448) 833 5272 332"
@@ -94,3 +94,9 @@ weight = 3
 icon = "fa-twitter-square"
 url = "https://twitter.com/"
 weight = 4
+
+[deployment]
+[[deployment.targets]]
+name = "main"
+# Azure Blob Storage; see https://gocloud.dev/howto/blob/#azure
+URL = "azblob://$web"
