@@ -2,7 +2,7 @@ baseURL = "https://rgomezgar.github.io/analarahomepage"
 languageCode = "es-ES"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Ana Lara Psicóloga Sanitaria"
 # Main Menu
 [[menu.main]]
 name = "Home"
