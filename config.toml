@@ -20,10 +20,6 @@ weight = 3
 name = "Testimonios"
 url = "#reviews"
 weight = 4
-[[menu.main]]
-name = "Test"
-url = "#reviews"
-weight = 5
 
 # Sitemap Menu
 [[menu.sitemap]]
