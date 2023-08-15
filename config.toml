@@ -50,10 +50,10 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "Calle falsa 123."
-email = "hello@example.com"
+address = "Avda Marqués de Pickman (Sevilla)"
+email = "analarapsicologa@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+phone = "(+34) 643 895 768"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
@@ -61,20 +61,21 @@ latitude = "23.7783741"
 longitude = "90.3746808"
 pinImage = "images/pin.png"
 
-# Social icons
-[[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
-weight = 1
-[[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
-weight = 2
-[[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
-weight = 3
-[[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
-weight = 4
+# # Social icons
+# [[params.social]]
+# icon = "fa-facebook-official"
+# url = "https://www.facebook.com/"
+# weight = 1
+# [[params.social]]
+# icon = "fa-linkedin-square"
+# url = "https://www.linkedin.com/"
+# weight = 2
+# [[params.social]]
+# icon = "fa-pinterest-square"
+# url = "https://www.pinterest.com/"
+# weight = 3
+# [[params.social]]
+# icon = "fa-twitter-square"
+# url = "https://twitter.com/"
+# weight = 4
+# 
