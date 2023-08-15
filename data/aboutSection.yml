@@ -1,6 +1,6 @@
 ---
 enable: true
-topTitle: Sobre mí
+topTitle: 
 title: >
   ## Sobre mí
 
@@ -13,7 +13,7 @@ content: >
   try my best to make good user interface with the best user experience. I have been
   working as a Visual designer from.
 button1Name: Contáctame
-button2Name: Descarga mi CV
+button2Name: 
 button1Target: contact
-button2Target: contact
+button2Target: 
 image: images/about/about-img.jpg
