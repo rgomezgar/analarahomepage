@@ -54,7 +54,7 @@
               <img src="{{ "images/contact/location.svg" | absURL }}" alt="location" />
             </div>
           </div>
-          <h4>Office Address</h4>
+          <h4>Dirección</h4>
           <p>
             {{ $address.address }}
           </p>
@@ -74,11 +74,9 @@
               <img src="{{ "images/contact/phone.svg" | absURL }}" alt="phone" />
             </div>
           </div>
-          <h4>Phone & Email</h4>
-          <p>{{ $address.phone }}<br>
-            <a href="mailto:{{ $address.email }}">{{ $address.email }}</a>
-          </p>
-
+          <h4>Teléfono / Whatsapp</h4>
+            <p>{{ $address.phone }}<br>
+            </p>
         </div>
       </div>
       <div class="col-lg-4">
@@ -95,9 +93,9 @@
               <img src="{{ "images/contact/time.svg" | absURL }}" alt="time" />
             </div>
           </div>
-          <h4>Working Hours</h4>
+          <h4>Correo Electrónico</h4>
           <p>
-            {{ $address.openingHours }}
+            <a href="mailto:{{ $address.email }}">{{ $address.email }}</a>
           </p>
         </div>
       </div>
@@ -133,8 +131,7 @@
               <div class="form-check small">
                 <input type="checkbox" class="form-check-input" name="agreement" id="aggrement" required />
                 <label class="form-check-label" for="aggrement">
-                  I agree that my submitted data is being collected and
-                  stored.</label>
+                  Estoy de acuerdo en que estos datos se almacenen y procesen con el fin de establecer contacto. Soy consciente de que puedo revocar mi consentimiento en cualquier momento.</label>
               </div>
             </div>
 
