@@ -5,37 +5,21 @@ theme = "portio"
 title = "Ana Lara"
 # Main Menu
 [[menu.main]]
-name = "Home"
+name = "Inicio"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "About"
+name = "Sobre mí"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Service"
+name = "Servicios"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Work"
-url = "#portfolio"
+name = "Testimonios"
+url = "#reviews"
 weight = 4
-[[menu.main]]
-name = "Resume"
-url = "#resume"
-weight = 5
-[[menu.main]]
-name = "Skills"
-url = "#skills"
-weight = 6
-[[menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 7
-[[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 8
 
 # Sitemap Menu
 [[menu.sitemap]]
