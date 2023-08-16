@@ -26,8 +26,8 @@ sections:
   path: data/blogSection.yml
   label: Blog Section
 - type: directory
-  path: content/portfolio
-  label: Portfolio
+  path: content/about
+  label: About
   create: all
   match: "**/*"
 - type: directory
