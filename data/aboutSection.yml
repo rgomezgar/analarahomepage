@@ -12,8 +12,9 @@ content: >
   to solve the design problem and find easy and better solutions to solve it. I always
   try my best to make good user interface with the best user experience. I have been
   working as a Visual designer from.
-button1Name: Contáctame
+button1Name: Más sobre mí
 button2Name: 
-button1Target: contact
+button1Target: aboutme/moreaboutme.md
 button2Target: 
 image: images/about/about-img.jpg
+ 
