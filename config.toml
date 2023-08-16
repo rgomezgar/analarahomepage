@@ -18,7 +18,7 @@ url = "#service"
 weight = 3
 [[menu.main]]
 name = "Testimonios"
-url = "#reviews"
+url = "#testimonial"
 weight = 4
 
 # # Sitemap Menu
