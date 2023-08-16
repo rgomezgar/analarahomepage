@@ -14,7 +14,7 @@ content: >
   working as a Visual designer from.
 button1Name: Más sobre mí
 button2Name: 
-button1Target: content/aboutme/moreaboutme.md
+button1Target: content/aboutme/more.md
 button2Target: 
 image: images/about/about-img.jpg
  
