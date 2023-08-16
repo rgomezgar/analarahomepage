@@ -79,3 +79,18 @@ pinImage = "images/pin.png"
 # url = "https://twitter.com/"
 # weight = 4
 # 
+
+# disable all services
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true

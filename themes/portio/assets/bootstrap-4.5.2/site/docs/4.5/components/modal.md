@@ -524,7 +524,7 @@ Below is a live demo followed by example HTML and JavaScript. For more informati
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Send message</button>
+        <button type="button" class="btn btn-primary">Enviar</button>
       </div>
     </div>
   </div>
