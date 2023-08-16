@@ -30,4 +30,4 @@ fields:
   name: solution
   label: solution
 pages:
-- content/aboutme/moreaboutme.md
+- content/about/more.md
