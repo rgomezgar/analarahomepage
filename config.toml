@@ -43,11 +43,11 @@ weight = 4
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Portio 2020"
-footerLogo = "images/logo/logo_white_m.svg"
+footerLogo = "images/logo/logo_white.svg"
 # We're using formspree.io for form handling, paste your formspree url below
 fabformURL  = "https://fabform.io/f/gCYfe9N"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/logo/logo_black_m.svg"
+logo = "images/logo/logo_black.svg"
 
 [params.address]
 address = "Marqués de Pickman, Sevilla"
