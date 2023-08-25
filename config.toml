@@ -1,4 +1,4 @@
-baseURL = "analarapsicologa.kozow.com"
+baseURL = "https://rgomezgar.github.io/analarahomepage/"
 languageCode = "es-ES"
 paginate = 6
 theme = "portio"
