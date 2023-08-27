@@ -40,7 +40,7 @@ weight = 4
 # weight = 4
 
 [params]
-blogPageURL = "blog"
+blogPageURL = "about"
 contactLink = "contact"
 copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/logo/logo_white.svg"
