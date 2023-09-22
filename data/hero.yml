@@ -2,10 +2,9 @@
 enable: true
 topTitle: Hola, Soy Ana Lara
 content: >
-  # Estoy aquí para ayudarte
+  ## Psicóloga Sanitaria
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  *“El cuerpo habla y si no le escuchas, grita; y, si no le haces caso, va a gritar tan fuerte que no te va a dejar escuchar otra cosa.”*
 buttonName: Contáctame
 buttonURL: contact
 image: images/hero/2960351.jpg

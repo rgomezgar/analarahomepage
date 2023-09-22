@@ -4,7 +4,7 @@ topTitle:
 title: >
   ## Servicios
 
-  La tranquilidad no es la ausencia de problemas, sino la capacidad de mantener la calma ante ellos.
+  *"No se puede desatar un nudo sin saber cómo está hecho."* - Aristóteles
 service:
   - content: >
       #### Terapia Individual
@@ -31,8 +31,3 @@ service:
 
       A lo largo de la vida, nos enfrentamos a cambios significativos que pueden generar incertidumbre y desafíos emocionales. Ya sea una transición laboral, una pérdida personal o un cambio en las relaciones, te proporcionaré un espacio de apoyo donde puedas expresar tus emociones y adaptarte de manera saludable a estas transiciones.
     image: images/service/ui-ux.svg
-  - content: >
-      #### Grupos Terapéuticos y de Apoyo
-
-      A veces, enfrentar desafíos emocionales puede ser más efectivo cuando se comparten con otros que están pasando por experiencias similares. Mis grupos terapéuticos ofrecen un espacio seguro y comprensivo donde los individuos pueden compartir, aprender y crecer juntos. Ya sea para abordar la ansiedad, la depresión, la pérdida o cualquier otro tema, estos grupos brindan apoyo mutuo y estrategias de afrontamiento en un entorno guiado por un profesional experimentado.
-    image: images/service/web.svg
