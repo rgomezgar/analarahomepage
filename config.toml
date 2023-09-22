@@ -51,13 +51,13 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/logo/logo_black.svg"
 
 [params.address]
-address = "Marqués de Pickman, Sevilla"
+address = "Edificio Viapol, Sevilla"
 email = "analarapsicologa@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "(+34) 643 895 768"
 
 [params.map]
-url = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.0800524702126!2d-5.983514024347641!3d37.38793907208537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126f4668b74105%3A0xe8639495e8901e19!2sCentro%20M%C3%A9dico%20MAPFRE%20Salud!5e0!3m2!1sen!2ses!4v1692976692221!5m2!1sen!2ses"
+url = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.449359856744!2d-5.980842487819946!3d37.379204071971195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126e98cb0eda5f%3A0x7302337f4e6b3a85!2sEdificio%20Viapol!5e0!3m2!1sen!2ses!4v1695400142589!5m2!1sen!2ses"
 
 # # Social icons
 # [[params.social]]
