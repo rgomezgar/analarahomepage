@@ -1,44 +1,38 @@
 ---
 title: "Ana Lara"
-shortDescription: "Psicóloga Sanitaria Especializada en Trauma y Abusos Infantiles"
+shortDescription: 
 date: 2020-09-13T12:49:27+06:00
-featureImage: images/allpost/allPost-6.jpg
-postImage: images/single-blog/feature-image.jpg
+featureImage: "images/classic-blog/classic-blog-5.jpg"
+postImage: "images/classic-blog/classic-blog-5.jpg"
 ---
 
-Ana Lara es una destacada psicóloga sanitaria con una amplia experiencia en el campo del trauma y la salud mental infantil. Su enfoque terapéutico se basa en la Terapia Gestalt, lo que le permite abordar de manera holística las necesidades emocionales y psicológicas de sus pacientes. Además, Ana Lara es reconocida como una experta en el área de abusos en la infancia, brindando apoyo crucial a aquellos que han enfrentado experiencias traumáticas.
+*"Las emociones que no son expresadas, nunca mueren. Son enterradas vivas y salen más tarde de peores formas"*
 
-## Trayectoria Profesional
+### Trayectoria Profesional
 
-Ana Lara ha acumulado una impresionante trayectoria en el campo de la psicología y la salud mental. Con más de 15 años de experiencia en la práctica clínica, ha demostrado una dedicación constante a mejorar la vida de sus pacientes. Su enfoque se centra en crear un espacio seguro y de confianza, donde los individuos puedan explorar sus pensamientos, emociones y experiencias pasadas.
+Mi recorrido profesional se nutre de valiosas experiencias tanto en el ámbito clínico como en el social. Durante 3 años, tuve la oportunidad de trabajar con personas adultas que han sido abusadas sexualmente en la infancia; acompañándolas tanto a nivel individual como grupal. Esta experiencia me permitió explorar historias complejas y encontrar formas de sanación en conjunto.
 
-## Formación Académica
+En los procesos terapéuticos, comprendo que los síntomas son como el lenguaje de nuestro ser interior, una forma de expresar que algo no está en equilibrio. Esta expresión puede manifestarse de maneras diversas y únicas en cada individuo (ansiedad, depresión, problemas de sueño, dificultades en las relaciones sociales, baja autoestima…). En la terapia, valoro tanto la atención a estos síntomas como el abordaje de sus raíces. Reconozco que el trabajo conjunto para sanar no solo implica aliviar los síntomas visibles, sino también explorar con delicadeza lo que yace en el origen.
 
-La sólida formación académica de Ana Lara respalda su excelencia en el campo de la psicología. Ha obtenido una serie de títulos universitarios y certificaciones que la han preparado para abordar los desafíos más complejos en su área de especialización. Algunos de sus títulos y cursos incluyen:
+Disfruto especialmente facilitando talleres grupales, donde puedo compartir y aprender de la experiencia de todas las personas integrantes del grupo. A través de estos talleres, he tenido el honor de liderar sesiones sobre la prevención de violencia de género y el desarrollo de habilidades sociales para jóvenes y mujeres en riesgo de exclusión social. Además, en la danza, encontré una vía para explorar emociones con adultos que tienen diversidad funcional.
 
-1. **Licenciatura en Psicología Clínica**  
-   Universidad Central de Ciudad Real
+Ya que de *“lo que no se habla, no existe”*, encuentro vital divulgar, sensibilizar y formar en temas de Salud Mental. He tenido la oportunidad de compartir conocimientos con psicólogos/as y trabajadores/as sociales, explorando juntos temas como el trauma, el abuso infantil y las estrategias de intervención, entre otros.
 
-2. **Máster en Psicología de Trauma y Resiliencia**  
-   Universidad de Madrid
+Cada experiencia con las personas con las que he trabajado y los colegas que he conocido ha fortalecido mi compromiso de ofrecer apoyo cercano y continuo. En la actualidad, formo parte de "Lucero Psicología", donde brindo apoyo terapéutico en sesiones individuales, ya sea de manera presencial en Viapol (Sevilla) o en formato online. También sigo involucrada en "AVANCE", colaborando con personas que enfrentan trastornos de personalidad y sus seres queridos, a través de intervenciones individuales, grupos psicoeducativos y actividades familiares.
 
-3. **Diplomado en Terapia Gestalt**  
-   Instituto de Terapia Gestalt de Barcelona
 
-4. **Especialización en Abusos y Trauma Infantil**  
-   Instituto de Psicología Infantil de Valencia
+### Formación Académica.                                                       
 
-5. **Certificación en Terapia de Juego**  
-   Asociación de Psicólogos Clínicos
+Algunos de sus títulos y cursos incluyen.
 
-6. **Curso Avanzado en Intervención en Crisis**  
-   Instituto de Salud Mental y Terapia
 
-7. **Diplomado en Psicología Infantil y del Desarrollo**  
-   Instituto Universitario de Psicología Aplicada
-
-## Contribuciones a la Comunidad
-
-Ana Lara no solo ha destacado en su práctica clínica, sino que también ha realizado valiosas contribuciones a la comunidad en general. Ha impartido conferencias y talleres en escuelas, centros comunitarios y conferencias especializadas, con el objetivo de aumentar la conciencia sobre la importancia de la salud mental infantil y la prevención de abusos. Su enfoque compasivo y su profundo conocimiento han inspirado a muchos a buscar ayuda y a trabajar hacia la curación.
-
-En resumen, Ana Lara es una psicóloga sanitaria altamente respetada y comprometida, cuya experiencia en trauma, formación en Terapia Gestalt y especialización en abusos en la infancia la convierten en una figura influyente en el campo de la salud mental. Su dedicación a ayudar a los demás y su enfoque integral la distinguen como una profesional excepcional en su campo.
+- Grado en Psicología
+- Máster Universitario en Psicología General Sanitaria
+- Máster Universitario en Intervención y Mediación Familiar
+- Formación en Sistémica. Caleidoscopio
+- Formación en Psicodrama. Escuela Rojas-Bermúdez
+- Formación en Gestalt. Kayros
+- Formación en trauma y abuso sexual infantil
+- Formación en igualdad y violencia de género
+- Formación en prevención del suicidio
+- Formación en trastorno límite de la personalidad
