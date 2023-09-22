@@ -1,0 +1,5 @@
+items:
+  - title: Google Anaytics (funcional)
+    description: Analiza el trafico de la web. Esto es usado para mejorar la página web.
+    is_functional: true
+    script_file: ga.js
