@@ -41,6 +41,8 @@
                     {{ $Section := .service }}
                     {{ range $Section }}
                     <div class="service__slider_item">
+                        
+                        {{if .image}}
                         <div class="service__slider_item-icon">
                             <div class="icon-background">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="122.457" height="109.702"
@@ -54,6 +56,8 @@
                                 <img src=" {{ .image | absURL }} " alt="ui-ux">
                             </div>
                         </div>
+                        {{end}}
+
                         <div class="mt-5">
                             {{ .content | markdownify }}
                         </div>

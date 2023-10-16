@@ -12,24 +12,24 @@ service:
       En la terapia individual, trabajaremos juntos para identificar las causas subyacentes de tus inquietudes y desarrollar estrategias efectivas para afrontarlas. Trabajo con personas adultas y jóvenes mayores de 15 años. Puede ser de manera presencial u online.
 
       Precio: 60€ / sesión
-    image: images/service/ui-ux.svg
+    image: 
   - content: >
       #### Autoexploración y crecimiento personal
 
       No es necesario enfrentar una crisis o una sintomatología grave para buscar apoyo terapéutico. A menudo, son las pequeñas cosas que queremos modificar las que pueden marcar la mayor diferencia en nuestra calidad de vida. Ya sea aprender a resolver conflictos de manera más asertiva, establecer límites saludables o mejorar la gestión emocional, la terapia puede ayudarte a desarrollar habilidades y estrategias para hacerlo de manera efectiva.
-    image: images/service/web.svg
+    image: 
   - content: >
       #### Apoyo en momentos de cambio
 
       A lo largo de la vida, nos enfrentamos a cambios significativos que pueden generar incertidumbre y desafíos emocionales. Ya sea una transición laboral, una pérdida personal o un cambio en las relaciones, te proporcionaré un espacio de apoyo donde puedas expresar tus emociones y adaptarte de manera saludable a estas transiciones.
-    image: images/service/creative.svg
+    image: 
   - content: >
       #### Talleres grupales / grupos psicoeducativos
 
       A veces, enfrentar desafíos emocionales puede ser más efectivo cuando se comparten con otros que están pasando por experiencias similares. Mis talleres o grupos psicoeducativos ofrecen un espacio seguro y comprensivo donde los individuos pueden compartir, aprender y crecer juntos. Las temáticas van variando en función de las necesidades existentes. ¿Te gustaría participar en un taller de una temática en concreto? ¡Coméntamelo!
-    image: images/service/creative.svg
+    image: 
   - content: >
       #### Formación a profesionales en Salud Mental
 
       Compartir el conocimiento es esencial para el crecimiento de nuestra comunidad de profesionales de salud mental. Ofrezco charlas de sensibilización y formación de distintos temas (abuso sexual infantil, trauma..) a profesionales o futuros profesionales. ¿Te interesa que participe en tu universidad? ¡Coméntamelo!
-    image: images/service/branding.svg
+    image: 
