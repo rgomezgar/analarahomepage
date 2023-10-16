@@ -35,3 +35,4 @@ Algunos de sus títulos y cursos incluyen.
 - Formación en igualdad y violencia de género
 - Formación en prevención del suicidio
 - Formación en trastorno límite de la personalidad
+- Formación en acogimiento residencial de menores
