@@ -2,8 +2,7 @@
 title: "Ana Lara"
 shortDescription: 
 date: 2020-09-13T12:49:27+06:00
-featureImage: "images/classic-blog/classic-blog-5.jpg"
-postImage: "images/classic-blog/classic-blog-5.jpg"
+image: images/classic-blog/classic-blog-2.jpg
 ---
 
 *"Las emociones que no son expresadas, nunca mueren. Son enterradas vivas y salen más tarde de peores formas"*
@@ -21,7 +20,7 @@ Ya que de *“lo que no se habla, no existe”*, encuentro vital divulgar, sensi
 Cada experiencia con las personas con las que he trabajado y los colegas que he conocido ha fortalecido mi compromiso de ofrecer apoyo cercano y continuo. En la actualidad, formo parte de "Lucero Psicología", donde brindo apoyo terapéutico en sesiones individuales, ya sea de manera presencial en Viapol (Sevilla) o en formato online. También sigo involucrada en "AVANCE", colaborando con personas que enfrentan trastornos de personalidad y sus seres queridos, a través de intervenciones individuales, grupos psicoeducativos y actividades familiares.
 
 
-### Formación Académica.                                                       
+### Formación Académica.                                                           
 
 Algunos de sus títulos y cursos incluyen.
 
