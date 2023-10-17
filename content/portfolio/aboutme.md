@@ -1,11 +1,11 @@
 ---
 title: "Ana Lara"
-shortDescription: 
+shortDescription: "\"Las emociones que no son expresadas, nunca mueren. Son enterradas vivas y salen más tarde de peores formas\""
 date: 2020-09-13T12:49:27+06:00
 image: images/aboutme/aboutme.jpg
 ---
 
-*"Las emociones que no son expresadas, nunca mueren. Son enterradas vivas y salen más tarde de peores formas"*
+
 
 ### Trayectoria Profesional
 
@@ -21,9 +21,6 @@ Cada experiencia con las personas con las que he trabajado y los colegas que he 
 
 
 ### Formación Académica.                                                           
-
-Algunos de sus títulos y cursos incluyen.
-
 
 - Grado en Psicología
 - Máster Universitario en Psicología General Sanitaria
