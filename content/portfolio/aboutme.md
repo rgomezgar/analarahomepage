@@ -2,7 +2,7 @@
 title: "Ana Lara"
 shortDescription: 
 date: 2020-09-13T12:49:27+06:00
-image: images/classic-blog/classic-blog-2.jpg
+image: images/aboutme/aboutme.jpg
 ---
 
 *"Las emociones que no son expresadas, nunca mueren. Son enterradas vivas y salen más tarde de peores formas"*
