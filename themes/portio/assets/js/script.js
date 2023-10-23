@@ -90,14 +90,26 @@ $(document).ready(function () {
     infinite: false,
     slidesToShow: 3,
     slidesToScroll: 1,
+    initialSlide: 1,
     dots: false,
     arrows: false,
     responsive: [
+      {
+        breakpoint: 1800,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 1,
+          initialSlide: 0,
+          dots: false,
+          arrows: false
+        },
+      },
       {
         breakpoint: 992,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 1,
+          initialSlide: 0,
           dots: true,
         },
       },
@@ -106,6 +118,7 @@ $(document).ready(function () {
         settings: {
           slidesToShow: 1,
           slidesToScroll: 1,
+          initialSlide: 0,
           dots: true,
         },
       },
