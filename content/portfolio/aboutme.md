@@ -15,12 +15,11 @@ En los procesos terapéuticos, comprendo que los síntomas son como el lenguaje 
 
 Disfruto especialmente facilitando talleres grupales, donde puedo compartir y aprender de la experiencia de todas las personas integrantes del grupo. A través de estos talleres, he tenido el honor de liderar sesiones sobre la prevención de violencia de género y el desarrollo de habilidades sociales para jóvenes y mujeres en riesgo de exclusión social. Además, en la danza, encontré una vía para explorar emociones con adultos que tienen diversidad funcional.
 
-Ya que de *“lo que no se habla, no existe”*, encuentro vital divulgar, sensibilizar y formar en temas de Salud Mental. He tenido la oportunidad de compartir conocimientos con psicólogos/as y trabajadores/as sociales, explorando juntos temas como el trauma, el abuso infantil y las estrategias de intervención, entre otros.
+Ya que de *“Aquello de lo que no se habla, no existe”*, encuentro vital divulgar, sensibilizar y formar en temas de Salud Mental. He tenido la oportunidad de compartir conocimientos con psicólogos/as y trabajadores/as sociales, explorando juntos temas como el trauma, el abuso infantil y las estrategias de intervención, entre otros.
 
 Cada experiencia con las personas con las que he trabajado y los colegas que he conocido ha fortalecido mi compromiso de ofrecer apoyo cercano y continuo. En la actualidad, formo parte de "Lucero Psicología", donde brindo apoyo terapéutico en sesiones individuales, ya sea de manera presencial en Viapol (Sevilla) o en formato online. También sigo involucrada en "AVANCE", colaborando con personas que enfrentan trastornos de personalidad y sus seres queridos, a través de intervenciones individuales, grupos psicoeducativos y actividades familiares.
 
-
-### Formación Académica.                                                           
+### Formación Académica
 
 - Grado en Psicología
 - Máster Universitario en Psicología General Sanitaria
