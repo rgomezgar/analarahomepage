@@ -31,4 +31,5 @@ Cada experiencia con las personas con las que he trabajado y los colegas que he 
 - Formación en igualdad y violencia de género
 - Formación en prevención del suicidio
 - Formación en trastorno límite de la personalidad
+- Formación en infanto-juvenil
 - Formación en acogimiento residencial de menores
