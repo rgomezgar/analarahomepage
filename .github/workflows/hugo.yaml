@@ -80,10 +80,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: hugo-site
-          path: .
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
-        with:
-          path: "."
+        uses: actions/deploy-pages@v4
