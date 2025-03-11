@@ -5,9 +5,10 @@ Portio is a simple, minimal and responsive Portfolio Hugo Theme. Portio is well 
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Live Demo](#live-demo)
 - [Installation](#installation)
-- [Main Features](#features)
+- [Features](#features)
 - [Support](#support)
 - [Licensing](#licensing)
 - [Hire](#hire)
@@ -34,7 +35,7 @@ Checkout the live demo [here](https://portio-hugo.staticmania.com/)
 - Blog Support.
 - Well formatted code.
 - Easy Customization.
-- FabForm.io [static website form](https://fabform.io).
+- Formspree.io [static website form](https://formspree.io).
 - Google Analytics.
 - Forestry Integrated.
 - Crafted for Personal Portfolio
