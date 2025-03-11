@@ -1,6 +1,6 @@
 baseURL = "https://www.analarapsicologa.com/"
 languageCode = "es-ES"
-paginate = 6
+pagination.pagerSize = 6
 theme = "portio"
 title = "Ana Lara"
 # Main Menu
@@ -86,7 +86,7 @@ url = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.449359856744!2
     disable = true
   [privacy.instagram]
     disable = true
-  [privacy.twitter]
+  [privacy.x]
     disable = true
   [privacy.vimeo]
     disable = true
